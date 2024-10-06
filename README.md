@@ -6,11 +6,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
-### :woman_technologist: About Me: I am a master’s student specializing in Data Science at the New Jersey Institute of Technology (NJIT), currently serving as a Research Assistant focused on Data Analysis and Validation in partnership with NJECC.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### :woman_technologist: About Me: I am a master’s student specializing in Data Science at the New Jersey Institute of Technology (NJIT), currently serving as a Research Assistant focused on Data Analysis and Visualization in partnership with NJECC.
 
-- :telescope: I’m working as a Research Assistant, contributing to Data Analysis and Validation partnered with NJECC.
-
-- :zap: In my free time, I read Data Science related articles.
+- :telescope: In my spare time, I enjoy reading articles related to Data Science, keeping me updated on the latest trends and insights in the field.
 
 - :mailbox: How to reach me: mr936@njit.edu
   <div id="badges"><a href="linkedin.com/in/meghnareddi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn Badge"/></a></div>
